@@ -6,8 +6,8 @@ Follow these steps:
 
 ```sh
 # 1. Clone the repository
-git clone https://github.com/Yizune/New.git
-cd New
+git clone https://github.com/Yizune/CSharp-Game-Collection.git
+cd CSharp-Game-Collection
 
 # 2. Run the application
 dotnet run
